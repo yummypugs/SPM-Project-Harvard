@@ -1,0 +1,16 @@
+name: spm
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - pandas
+  - numpy
+  - ca-certificates
+  - openssl
+  - openpyxl
+  - certifi
+  - statsmodels
+  - scikit-learn
+  - matplotlib
+prefix: C:\Users\alexa\mambaforge\envs\spm
