@@ -13,4 +13,5 @@ dependencies:
   - statsmodels
   - scikit-learn
   - matplotlib
+  - seaborn
 prefix: C:\Users\alexa\mambaforge\envs\spm
