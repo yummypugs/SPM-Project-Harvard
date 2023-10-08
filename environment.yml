@@ -16,4 +16,5 @@ dependencies:
   - seaborn
   - pdfminer
   - plotly
+  - pdfminer.six
 prefix: C:\Users\alexa\mambaforge\envs\spm
